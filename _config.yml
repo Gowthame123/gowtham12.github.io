@@ -15,7 +15,7 @@ title:            "TE Connectivity"
 tagline:          'A Jekyll theme'
 description:      'is a global leader in connectivity and sensor solutions, supplying a wide range of high-performance electronic components, connectors, and sensors.'
 url:              ""
-baseurl:          ""
+baseurl:          "my_demo_site"
 
 author:
   name:           'Mark Otto'
